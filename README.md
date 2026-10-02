@@ -130,7 +130,7 @@ Through this project, I practiced:
 
 ## 📷 Dashboard Preview
 
-![Coffee Shop Sales Dashboard](dashboard.png)
+Coffee_Shop_Dashboard.png
 
 ## 👨‍💻 Project Author
 
